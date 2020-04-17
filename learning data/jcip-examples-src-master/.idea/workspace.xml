@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63bf596c-34fb-4414-ab85-c29622d27ec9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Java虚拟机.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java虚拟机.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,8 @@
       <updated>1586510677363</updated>
       <workItem from="1586510679762" duration="2183000" />
       <workItem from="1586937761889" duration="102000" />
-      <workItem from="1586937924077" duration="2638000" />
+      <workItem from="1586937924077" duration="3165000" />
+      <workItem from="1587108891079" duration="50000" />
     </task>
     <servers />
   </component>
